@@ -1,0 +1,13 @@
+clingo version 5.2.0
+Reading from initial.lp ...
+Solving...
+Solving...
+Solving...
+Answer: 1
+at(plat1,1) cost(0,1) cost(0,0) move(lower_right_ladder,1) at(lower_right_ladder,2) cost(50,2)
+SATISFIABLE
+
+Models       : 1+
+Calls        : 3
+Time         : 0.003s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.003s
